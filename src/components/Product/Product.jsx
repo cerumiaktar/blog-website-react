@@ -19,7 +19,7 @@ const Product = ({ product }) => {
                         <div className="mask mask-star bg-orange-400" aria-label="4 star"></div>
                         <div className="mask mask-star bg-orange-400" aria-label="5 star" aria-current="true"></div>
                     </div>
-                    <p className="text-xl font-semibold">{price}</p>
+                    <p className="text-xl font-semibold">${price}</p>
                     <div className="card-actions ">
                         <button className="btn w-full bg-black text-white text-lg">Buy Now</button>
                     </div>
