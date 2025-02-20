@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/9mM4mpyP/Bookself4.png",
+        "title": "OakNest Bookshelf ",
+        "rating": 4.5,
+        "price": 149.99
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/YB5x8FGH/Bookself3.png",
+        "title": "WillowBranch Shelf ",
+        "rating": 4.8,
+        "price": 299.99
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/39ds0Md6/Bookself2.png",
+        "title": "CedarTree Bookcase ",
+        "rating": 4.3,
+        "price": 49.99
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/h1cxZ0yb/image.png",
+        "title": "MapleRoot Bookshelf",
+        "rating": 4.7,
+        "price": 499.99
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co.com/3mk07CdK/image-2.png",
+        "title": "Evergreen Branch Shelf",
+        "rating": 4.6,
+        "price": 79.99
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co.com/xq0MLBDd/image-3.png",
+        "title": "CedarPlank Work Desk",
+        "rating": 4.4,
+        "price": 119.99
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co.com/ZRLmTd5r/image-4.png",
+        "title": "UrbanGlow LED Desk Lamp",
+        "rating": 4.5,
+        "price": 34.99
+    },
+    {
+        "id": 8,
+        "img": "https://example.com/product8.jpg",
+        "title": "TechNest Mechanical Keyboard",
+        "rating": 4.8,
+        "price": 89.99
+    },
+    {
+        "id": 9,
+        "img": "https://example.com/product9.jpg",
+        "title": "LuxeMarble Coffee Table",
+        "rating": 4.7,
+        "price": 199.99
+    },
+    {
+        "id": 10,
+        "img": "https://example.com/product10.jpg",
+        "title": "BohoCharm Rattan Chair",
+        "rating": 4.6,
+        "price": 89.99
+    },
+    {
+        "id": 11,
+        "img": "https://example.com/product11.jpg",
+        "title": "ProSound Wireless Headphones",
+        "rating": 4.5,
+        "price": 129.99
+    },
+    {
+        "id": 12,
+        "img": "https://example.com/product12.jpg",
+        "title": "RusticBeam Wooden Floor Lamp",
+        "rating": 4.4,
+        "price": 79.99
+    },
+    {
+        "id": 13,
+        "img": "https://example.com/product13.jpg",
+        "title": "CompactFold Study Desk",
+        "rating": 4.3,
+        "price": 139.99
+    },
+    {
+        "id": 14,
+        "img": "https://example.com/product14.jpg",
+        "title": "UrbanSleek Laptop Stand",
+        "rating": 4.7,
+        "price": 39.99
+    },
+    {
+        "id": 15,
+        "img": "https://example.com/product15.jpg",
+        "title": "FlexiFold Sofa Bed",
+        "rating": 4.5,
+        "price": 349.99
+    },
+    {
+        "id": 16,
+        "img": "https://example.com/product16.jpg",
+        "title": "TimberTouch Night Lamp",
+        "rating": 4.8,
+        "price": 29.99
+    },
+    {
+        "id": 17,
+        "img": "https://example.com/product17.jpg",
+        "title": "EliteGamer Racing Chair",
+        "rating": 4.6,
+        "price": 219.99
+    },
+    {
+        "id": 18,
+        "img": "https://example.com/product18.jpg",
+        "title": "RoyalLeather Executive Sofa",
+        "rating": 4.7,
+        "price": 599.99
+    },
+    {
+        "id": 19,
+        "img": "https://example.com/product19.jpg",
+        "title": "SmartBrew Coffee Maker",
+        "rating": 4.5,
+        "price": 89.99
+    },
+    {
+        "id": 20,
+        "img": "https://example.com/product20.jpg",
+        "title": "ScandiGlow Pendant Light",
+        "rating": 4.6,
+        "price": 49.99
+    }
+]
