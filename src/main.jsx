@@ -9,6 +9,7 @@ import {
 import Root from './Root/Root.jsx';
 import Home from './components/Home/Home.jsx';
 import Products from './components/Products/Products.jsx';
+import AllBlogs from './components/AllBlogs/AllBlogs.jsx';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +23,10 @@ const router = createBrowserRouter([
       {
         path:'/products',
         element:<Products></Products>
+      },
+      {
+        path:'/blogs',
+        element:<AllBlogs></AllBlogs>
       }
     ]
   },
