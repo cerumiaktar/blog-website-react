@@ -11,6 +11,8 @@ import Home from './components/Home/Home.jsx';
 import Products from './components/Products/Products.jsx';
 import AllBlogs from './components/AllBlogs/AllBlogs.jsx';
 import Contact from './components/Contact/Contact.jsx';
+import SignIn from './components/SignIn/SignIn.jsx';
+import SignUp from './components/SignUp/SignUp.jsx';
 
 const router = createBrowserRouter([
   {
@@ -32,6 +34,14 @@ const router = createBrowserRouter([
       {
         path:'/contact',
         element:<Contact></Contact>
+      },
+      {
+        path:'/signin',
+        element:<SignIn></SignIn>
+      },
+      {
+        path:'/signup',
+        element:<SignUp></SignUp>
       }
     ]
   },
