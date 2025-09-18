@@ -9,7 +9,7 @@ const Footer = () => {
                     <fieldset class="w-80">
                         <div class="join">
                             <input type="text" placeholder="username@site.com" class="input input-bordered bg-black border-white text-white join-item" />
-                            <button class="btn bg-white join-item">Subscribe</button>
+                            <button class="btn bg-white text-black join-item">Subscribe</button>
                         </div>
                     </fieldset>
                 </form>

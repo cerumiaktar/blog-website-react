@@ -1,9 +1,15 @@
+import { Link } from "react-router-dom";
 
 
 const ErrorPage = () => {
     return (
-        <div>
-            <h1 className="text-3xl font-bold text-red-500">404</h1>
+        <div className="">
+            <div className="flex justify-center items-center mt-30 mb-16">
+                <img className="" src="https://i.ibb.co.com/hx6gnPSw/Frame-removebg-preview.png" alt="" />
+            </div>
+            <div className="text-center">
+                <Link to='/'><button className="btn bg-black text-white dark:bg-white dark:text-black">Go to Home Page</button></Link>
+            </div>
         </div>
     );
 };
