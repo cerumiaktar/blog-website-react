@@ -19,7 +19,7 @@ const Blog = ({ blog }) => {
                         </div>
                     </div>
                     <h2 className="card-title">{title}</h2>
-                    <p className="leading-7 text-[#333333]">{short_description}</p>
+                    <p className="leading-7 text-[#333333] dark:text-[#b4b4b4]">{short_description}</p>
                 </div>
             </div>
         </div>

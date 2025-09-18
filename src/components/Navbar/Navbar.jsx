@@ -31,8 +31,8 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end gap-4">
-                    <a className="btn bg-black text-white text-lg"><Link to='/signin'>Sign in</Link></a>
-                    <a className="btn bg-black text-white text-lg"><Link to='/signup'>Sign Up</Link></a>
+                    <a className="btn dark:bg-white dark:text-black bg-black text-white text-lg "><Link to='/signin'>Sign in</Link></a>
+                    <a className="btn bg-black dark:bg-white dark:text-black text-white text-lg"><Link to='/signup'>Sign Up</Link></a>
                 </div>
             </div>
         </div>

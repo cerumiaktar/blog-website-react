@@ -26,7 +26,7 @@ const SignIn = () => {
                             </label>
                         </div>
                         <div className="form-control mt-6">
-                            <button className="btn w-full bg-black text-white text-lg">Login</button>
+                            <button className="btn w-full bg-black text-white text-lg dark:bg-white dark:text-black dark:border-none">Sign in</button>
                         </div>
                         <div className='text-center'>
                             <p>Don't have an account <Link className="text-blue-700 font-bold" to='/signup'>Signup</Link></p>

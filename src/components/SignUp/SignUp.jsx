@@ -30,7 +30,7 @@ const SignUp = () => {
                             
                         </div>
                         <div className="form-control mt-6">
-                            <button className="btn w-full bg-black text-white text-lg">Login</button>
+                            <button className="btn w-full bg-black text-white text-lg dark:bg-white dark:text-black dark:border-none">Sign Up</button>
                         </div>
                         <div>
                             <p>Already have an account <Link className="text-blue-700 font-bold" to='/signin'>Signin</Link></p>
