@@ -12,7 +12,7 @@ const AllBlog = ({allBlog}) => {
                 </figure>
                 <div className="card-body space-y-3">
                     <div className="flex items-center gap-4">
-                        <img className="w-12" src={author_img} alt="" />
+                        <img className="w-12" src={author_img} alt="blog image" />
                         <div>
                             <h2 className="text-base font-medium">{author}</h2>
                             <p className="text-xs">{publishing_date}</p>
