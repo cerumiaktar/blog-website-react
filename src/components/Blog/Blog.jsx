@@ -8,7 +8,7 @@ const Blog = ({ blog }) => {
                 <figure>
                     <img
                         src={cover}
-                        alt="blogs" />
+                        alt="blogs image" />
                 </figure>
                 <div className="card-body space-y-3">
                     <div className="flex items-center gap-4">
