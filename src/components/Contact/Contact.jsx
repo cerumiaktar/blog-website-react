@@ -7,7 +7,7 @@ const Contact = () => {
             <div className="mt-20 mb-20">
                 <div className="flex flex-col space-y-6 ">
                     <input type="text" placeholder="Name" className="input mx-auto input-bordered w-full max-w-lg" />
-                    <input type="text" placeholder="Phone NUmber" className="input mx-auto input-bordered w-full max-w-lg" />
+                    <input type="text" placeholder="Phone Number" className="input mx-auto input-bordered w-full max-w-lg" />
                     <input type="email" placeholder="Email" className="input mx-auto input-bordered w-full max-w-lg" />
                     <input type="submit" placeholder="Submit" className="input mx-auto bg-black text-white text-lg dark:bg-white dark:text-black dark:border-none input-bordered w-full max-w-lg" />
                 </div>
