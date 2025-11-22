@@ -1,7 +1,7 @@
 
 
-const Product = ({ product }) => {
-    const { img, title, rating, price } = product;
+const FeaturedProduct = ({ featuredProduct }) => {
+    const { id, img, title, rating, price } = featuredProduct;
     return (
         <div>
             <div className="card bg-base-100 text-center dark:shadow-gray-50 shadow-sm h-[550px]">
@@ -30,4 +30,4 @@ const Product = ({ product }) => {
     );
 };
 
-export default Product;
+export default FeaturedProduct;

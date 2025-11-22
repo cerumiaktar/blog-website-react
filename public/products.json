@@ -3,140 +3,140 @@
         "id": 1,
         "img": "https://i.ibb.co.com/9mM4mpyP/Bookself4.png",
         "title": "OakNest Bookshelf ",
-        "rating": 4.5,
+        "rating": "★★★★☆",
         "price": 149.99
     },
     {
         "id": 2,
         "img": "https://i.ibb.co.com/YB5x8FGH/Bookself3.png",
         "title": "WillowBranch Shelf ",
-        "rating": 4.8,
+        "rating": "★★★★☆",
         "price": 299.99
     },
     {
         "id": 3,
         "img": "https://i.ibb.co.com/39ds0Md6/Bookself2.png",
         "title": "CedarTree Bookcase ",
-        "rating": 4.3,
+        "rating": "★★★★☆",
         "price": 49.99
     },
     {
         "id": 4,
         "img": "https://i.ibb.co.com/h1cxZ0yb/image.png",
         "title": "MapleRoot Bookshelf",
-        "rating": 4.7,
+        "rating": "★★★★☆",
         "price": 499.99
     },
     {
         "id": 5,
         "img": "https://i.ibb.co.com/3mk07CdK/image-2.png",
         "title": "Evergreen Branch Shelf",
-        "rating": 4.6,
+        "rating": "★★★★☆",
         "price": 79.99
     },
     {
         "id": 6,
         "img": "https://i.ibb.co.com/xq0MLBDd/image-3.png",
         "title": "CedarPlank Work Desk",
-        "rating": 4.4,
+        "rating": "★★★★☆",
         "price": 119.99
     },
     {
         "id": 7,
         "img": "https://i.ibb.co.com/ZRLmTd5r/image-4.png",
         "title": "UrbanGlow LED Desk Lamp",
-        "rating": 4.5,
+        "rating": "★★★★☆",
         "price": 34.99
     },
     {
         "id": 8,
         "img": "https://i.ibb.co.com/bgfc3Wdz/sofa3.png",
         "title": "TechNest Mechanical Keyboard",
-        "rating": 4.8,
+        "rating": "★★★★☆",
         "price": 89.99
     },
     {
         "id": 9,
         "img": "https://i.ibb.co.com/zhC0KX0B/image-5.png",
         "title": "LuxeMarble Coffee Table",
-        "rating": 4.7,
+        "rating": "★★★★☆",
         "price": 199.99
     },
     {
         "id": 10,
         "img": "https://i.ibb.co.com/0jgPMtsG/image-6.png",
         "title": "BohoCharm Rattan Chair",
-        "rating": 4.6,
+        "rating": "★★★★☆",
         "price": 89.99
     },
     {
         "id": 11,
         "img": "https://i.ibb.co.com/tTGCYjGs/image-7.png",
         "title": "ProSound Wireless Headphones",
-        "rating": 4.5,
+        "rating": "★★★★☆",
         "price": 129.99
     },
     {
         "id": 12,
         "img": "https://i.ibb.co.com/Q7fJkZfx/image-8.png",
         "title": "RusticBeam Wooden Floor Lamp",
-        "rating": 4.4,
+        "rating": "★★★★☆",
         "price": 79.99
     },
     {
         "id": 13,
         "img": "https://i.ibb.co.com/8nr2Rw0X/image-9.png",
         "title": "CompactFold Study Desk",
-        "rating": 4.3,
+        "rating": "★★★★☆",
         "price": 139.99
     },
     {
         "id": 14,
         "img": "https://i.ibb.co.com/Pvt4k7DW/image-10.png",
         "title": "UrbanSleek Laptop Stand",
-        "rating": 4.7,
+        "rating": "★★★★☆",
         "price": 39.99
     },
     {
         "id": 15,
         "img": "https://i.ibb.co.com/9mgdV9kr/image-11.png",
         "title": "FlexiFold Sofa Bed",
-        "rating": 4.5,
+        "rating": "★★★★☆",
         "price": 349.99
     },
     {
         "id": 16,
         "img": "https://i.ibb.co.com/zV8dn2hs/image-12.png",
         "title": "TimberTouch Night Lamp",
-        "rating": 4.8,
+        "rating": "★★★★☆",
         "price": 29.99
     },
     {
         "id": 17,
         "img": "https://i.ibb.co.com/209qLdbg/image-13.png",
         "title": "EliteGamer Racing Chair",
-        "rating": 4.6,
+        "rating": "★★★★☆",
         "price": 219.99
     },
     {
         "id": 18,
         "img": "https://i.ibb.co.com/TDD3QNRS/image-14.png",
         "title": "RoyalLeather Executive Sofa",
-        "rating": 4.7,
+        "rating": "★★★★☆",
         "price": 599.99
     },
     {
         "id": 19,
         "img": "https://i.ibb.co.com/217T6gDQ/image-15.png",
         "title": "SmartBrew Coffee Maker",
-        "rating": 4.5,
+        "rating": "★★★★☆",
         "price": 89.99
     },
     {
         "id": 20,
         "img": "https://i.ibb.co.com/xtRXjQ4J/image-16.png",
         "title": "ScandiGlow Pendant Light",
-        "rating": 4.6,
+        "rating": "★★★★☆",
         "price": 49.99
     }
 ]

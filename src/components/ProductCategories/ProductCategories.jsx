@@ -12,7 +12,7 @@ const ProductCategories = () => {
         .then(data=>setPCategories(data))
     } ,[])
     return (
-        <div className="container mx-auto">
+        <div className="container mx-auto mb-12">
             <div className="flex items-center justify-between">
                 <h1 className="text-2xl font-bold text-center mb-6">Product Categories</h1>
                 <Link to='/products'><p>See all</p></Link>
