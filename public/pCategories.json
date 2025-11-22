@@ -1,32 +1,32 @@
 [
     {
         "id": 1,
-        "img": "https://i.ibb.co.com/2YBfTjv/skincare-product.jpg",
+        "img": "https://i.ibb.co.com/xSCX4F1j/Skin-Care.png",
         "title": "Skin Care"
     },
     {
         "id": 2,
-        "img": "https://i.ibb.co.com/80zjqCg/gadgets-product.jpg",
+        "img": "https://i.ibb.co.com/N62s1mkN/Gadgets.png",
         "title": "Gadgets"
     },
     {
         "id": 3,
-        "img": "https://i.ibb.co.com/K64T2vC/accessories-product.jpg",
+        "img": "https://i.ibb.co.com/9mWhNSnv/Accessories.png",
         "title": "Accessories"
     },
     {
         "id": 4,
-        "img": "https://i.ibb.co.com/fHQM07G/home-decor.jpg",
+        "img": "https://i.ibb.co.com/TDqj6N51/Home-Decor.png",
         "title": "Home Decor"
     },
     {
         "id": 5,
-        "img": "https://i.ibb.co.com/hY9ddLw/digital-product.jpg",
+        "img": "https://i.ibb.co.com/whpDWSTW/Digital-Products.png",
         "title": "Digital Products"
     },
     {
         "id": 6,
-        "img": "https://i.ibb.co.com/c3H7S4W/fitness-product.jpg",
+        "img": "https://i.ibb.co.com/7dvSkFPN/Fitness.png",
         "title": "Fitness"
     }
 ]

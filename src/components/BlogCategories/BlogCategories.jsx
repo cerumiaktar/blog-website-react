@@ -13,7 +13,7 @@ const BlogCategories = () => {
     } ,[])
 
     return (
-        <div className="container mx-auto mt-12">
+        <div className="container mx-auto mt-12 mb-12">
             <div className="flex items-center justify-between">
                 <h1 className="text-2xl font-bold text-center mb-6">Blogs Categories</h1>
                 <Link to='/blogs'><p>See all</p></Link>
