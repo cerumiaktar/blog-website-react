@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "cover": "https://i.ibb.co.com/0j1R4Hg5/1.png",
         "title": "The Future of Healthcare Technology",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -8,6 +9,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 2,
         "cover": "https://i.ibb.co.com/gb2SDZbj/2.png",
         "title": "Nutrition and Wellness in Modern Life",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -16,6 +18,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 3,
         "cover": "https://i.ibb.co.com/8nMz898b/3.png",
         "title": "Mental Health Awareness and Resources",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -24,6 +27,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 4,
         "cover": "https://i.ibb.co.com/hxKTMwGG/4.png",
         "title": "The Importance of Regular Exercise",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -32,6 +36,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 5,
         "cover": "https://i.ibb.co.com/yFn84GHt/5.png",
         "title": "Strategies for Conflict Resolution",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -40,6 +45,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 6,
         "cover": "https://i.ibb.co.com/dw5n4qPH/6.png",
         "title": "A Guide to Healthy Sleep Patterns",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -48,6 +54,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 7,
         "cover": "https://i.ibb.co.com/WWSYNKnL/7.png",
         "title": "Understanding Preventative Healthcare",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -56,6 +63,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 8,
         "cover": "https://i.ibb.co.com/mCyhp8h9/8.png",
         "title": "A Guide to Healthy Sleep Patterns",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -64,6 +72,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 9,
         "cover": "https://i.ibb.co.com/V0fDd0JM/9.png",
         "title": "Boosting Immunity with Natural Foods",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -72,6 +81,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 10,
         "cover": "https://i.ibb.co.com/0j1R4Hg5/1.png",
         "title": "The Future of Healthcare Technology",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -80,6 +90,7 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 11,
         "cover": "https://i.ibb.co.com/gb2SDZbj/2.png",
         "title": "Nutrition and Wellness in Modern Life",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
@@ -88,6 +99,43 @@
         "publishing_date": "04 Nov 2024"
     },
     {
+        "id": 12,
+        "cover": "https://i.ibb.co.com/gb2SDZbj/2.png",
+        "title": "Nutrition and Wellness in Modern Life",
+        "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
+        "author_img": "https://i.ibb.co.com/wF0csx9T/p2.png",
+        "author": "Michael Johnson",
+        "publishing_date": "04 Nov 2024"
+    },
+    {
+        "id": 13,
+        "cover": "https://i.ibb.co.com/V0fDd0JM/9.png",
+        "title": "Boosting Immunity with Natural Foods",
+        "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
+        "author_img": "https://i.ibb.co.com/rRz31dKr/p9.png",
+        "author": "James Morgan",
+        "publishing_date": "04 Nov 2024"
+    },
+    {
+        "id": 14,
+        "cover": "https://i.ibb.co.com/0j1R4Hg5/1.png",
+        "title": "The Future of Healthcare Technology",
+        "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
+        "author_img": "https://i.ibb.co.com/Q7CchzXh/p1.png",
+        "author": "Dr. Sarah Thompson",
+        "publishing_date": "04 Nov 2024"
+    },
+    {
+        "id": 15,
+        "cover": "https://i.ibb.co.com/gb2SDZbj/2.png",
+        "title": "Nutrition and Wellness in Modern Life",
+        "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
+        "author_img": "https://i.ibb.co.com/wF0csx9T/p2.png",
+        "author": "Michael Johnson",
+        "publishing_date": "04 Nov 2024"
+    },
+    {
+        "id": 16,
         "cover": "https://i.ibb.co.com/gb2SDZbj/2.png",
         "title": "Nutrition and Wellness in Modern Life",
         "short_description": "This includes open layouts for ergonomic collaboration furniture for comfort, biophilic elements to bring nature indoors, and tech-integrated spaces.",
