@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/2YBfTjv/skincare-product.jpg",
+        "title": "Skin Care"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/80zjqCg/gadgets-product.jpg",
+        "title": "Gadgets"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/K64T2vC/accessories-product.jpg",
+        "title": "Accessories"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/fHQM07G/home-decor.jpg",
+        "title": "Home Decor"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co.com/hY9ddLw/digital-product.jpg",
+        "title": "Digital Products"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co.com/c3H7S4W/fitness-product.jpg",
+        "title": "Fitness"
+    }
+]

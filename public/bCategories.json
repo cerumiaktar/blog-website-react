@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/ymnGXzWL/Technology.png",
+        "title": "Technology"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/LzjXJ14G/Lifestyle.png",
+        "title": "Lifestyle"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/rK8nCMxf/Health-Wellness.png",
+        "title": "Health & Wellness"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/1tWx1LWd/Travel.png",
+        "title": "Travel"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co.com/fGHG0Fpk/Food-Recipes.png",
+        "title": "Food & Recipes"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co.com/vnLGCKj/Fashion.png",
+        "title": "Fashion"
+    }
+]
