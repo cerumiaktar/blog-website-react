@@ -4,7 +4,7 @@ const FeaturedProduct = ({ featuredProduct }) => {
     const { id, img, title, rating, price } = featuredProduct;
     return (
         <div>
-            <div className="card bg-base-100 text-center dark:shadow-gray-50 shadow-sm h-[550px]">
+            <div className="card bg-base-100 text-center dark:shadow-gray-50 shadow-sm h-[450px]">
                 <figure>
                     <img className="w-full"
                         src={img}

@@ -6,8 +6,9 @@ const PopularProduct = ({ popular }) => {
 
     return (
         <div>
-            <div className="card bg-base-100 text-center dark:shadow-gray-50 shadow-sm h-[550px]">
-                <figure>
+            <div className="card bg-base-100 text-center dark:shadow-gray-50 shadow-sm h-[450px]">
+                <figure className="relative">
+                    <span className="badge badge-xs bg-red-700 border-none text-white absolute top-4 left-2 p-4 text-base font-medium">Most Popular</span>
                     <img className="w-full"
                         src={img}
                         alt="products" />

@@ -18,7 +18,7 @@ const PopularProducts = () => {
                 <h1 className="text-2xl font-bold text-center mb-6">Popular Product</h1>
                 <Link to='/products'><p>See all</p></Link>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
                 {
                     popularProducts.map((popular)=><PopularProduct popular={popular}></PopularProduct>)
                 }

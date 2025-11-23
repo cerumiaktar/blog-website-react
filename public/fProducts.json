@@ -26,5 +26,12 @@
         "title": "MapleRoot Bookshelf",
         "rating": "★★★★☆",
         "price": 499.99
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/B2L2TXNc/p2.png",
+        "title": "WillowBranch Shelf ",
+        "rating": "★★★★☆",
+        "price": 299.99
     }
 ]

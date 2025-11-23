@@ -16,7 +16,7 @@ const FeaturedProducts = () => {
                 <h1 className="text-2xl font-bold text-center mb-6">Featured Products</h1>
                 <Link to='/products'><p>See all</p></Link>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
                 {
                     FeaturedProducts.map((featuredProduct) =><FeaturedProduct featuredProduct={featuredProduct}></FeaturedProduct>)
                 }
