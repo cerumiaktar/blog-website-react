@@ -10,7 +10,7 @@ const Navbar = () => {
         <li><NavLink to='/contact'>Contact</NavLink></li>
     </>
     return (
-        <div className="bg-base-100 shadow-lg">
+        <div className="bg-base-100 dark:bg-white shadow-lg">
             <div className="navbar container mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -19,14 +19,14 @@ const Navbar = () => {
                         </div>
                         <ul
                             tabIndex={0}
-                            class="menu menu-sm dropdown-content bg-base-100 text-lg rounded-box z-1 mt-3 w-52 p-2 shadow">
+                            class="menu menu-sm dropdown-content bg-base-100 text-lg dark:text-black rounded-box z-1 mt-3 w-52 p-2 shadow">
                             {links}
                         </ul>
                     </div>
                     <Link to='/'><img className="w-12" src="/public/b.png" alt="" /></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1 text-lg">
+                    <ul className="menu menu-horizontal dark:text-black px-1 text-lg">
                         {links}
                     </ul>
                 </div>

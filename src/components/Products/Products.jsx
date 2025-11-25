@@ -29,6 +29,9 @@ const Products = () => {
                     products.map(product => <Product product={product}></Product>)
                 }
             </div>
+            <div className="text-center ">
+                <button className="btn mb-12 border border-black hover:bg-black hover:text-white">Load more</button>
+            </div>
         </div>
     );
 };
