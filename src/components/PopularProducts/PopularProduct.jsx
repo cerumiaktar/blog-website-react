@@ -6,7 +6,7 @@ const PopularProduct = ({ popular }) => {
 
     return (
         <div>
-            <div className="card bg-base-100 text-center dark:shadow-gray-50 shadow-sm h-[450px]">
+            <div className="card bg-base-100 text-center dark:bg-white dark:text-black shadow-xl h-[450px]">
                 <figure className="relative">
                     <span className="badge badge-xs bg-red-700 border-none text-white absolute top-4 left-2 p-4 text-base font-medium">Most Popular</span>
                     <img className="w-full"
@@ -25,7 +25,7 @@ const PopularProduct = ({ popular }) => {
                     </div> */}
                     <p className="text-xl font-semibold">${price}</p>
                     <div className="card-actions">
-                        <button className="btn w-full md:w-full bg-black text-white text-lg dark:border-white dark:bg-transparent">Buy Now</button>
+                        <button className="btn w-full md:w-full bg-black text-white text-lg dark:bg-black">Buy Now</button>
                     </div>
                 </div>
             </div>
