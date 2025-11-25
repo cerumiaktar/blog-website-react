@@ -24,7 +24,7 @@ const Products = () => {
                     </div>
                 </div>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
+            <div className="grid grid-cols-1 md:grid-cols-5 gap-8 mb-12">
                 {
                     products.map(product => <Product product={product}></Product>)
                 }

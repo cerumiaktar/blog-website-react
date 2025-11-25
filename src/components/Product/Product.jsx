@@ -4,7 +4,7 @@ const Product = ({ product }) => {
     const { img, title, rating, price } = product;
     return (
         <div>
-            <div className="card bg-base-100 text-center dark:bg-white dark:text-black shadow-xl h-[550px]">
+            <div className="card bg-base-100 text-center dark:bg-white dark:text-black shadow-xl h-[450px]">
                 <figure>
                     <img className="w-full"
                         src={img}
