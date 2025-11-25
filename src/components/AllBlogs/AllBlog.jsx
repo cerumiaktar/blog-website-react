@@ -4,7 +4,7 @@ const AllBlog = ({allBlog}) => {
     const { cover, title, short_description, author_img, author, publishing_date } = allBlog;
     return (
         <div>
-            <div className="card bg-base-100 shadow-sm border border-[#CCCCCC]">
+            <div className="card bg-base-100 dark:bg-white dark:text-black shadow-sm border border-[#CCCCCC]">
                 <figure>
                     <img
                         src={cover}
@@ -19,7 +19,7 @@ const AllBlog = ({allBlog}) => {
                         </div>
                     </div>
                     <h2 className="card-title">{title}</h2>
-                    <p className="leading-7 text-[#333333] dark:text-[#b4b4b4]">{short_description}</p>
+                    <p className="leading-7 text-[#333333]">{short_description}</p>
                 </div>
             </div>
         </div>
