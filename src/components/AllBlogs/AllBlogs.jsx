@@ -12,7 +12,17 @@ const AllBlogs = () => {
     }, [])
     return (
         <div className="container mx-auto mb-12">
-            <h1 className="text-2xl font-medium text-center mt-6 mb-6">All Blogs</h1>
+            <div
+                class="hero h-[200px] mb-12 mt-12 rounded-xl"
+                style={{
+                    backgroundImage: "url(https://i.ibb.co.com/m5TPYrNK/Frame-89.png)",
+                }}>
+                <div className="hero-content text-neutral-content text-center">
+                    <div className="max-w-md">
+                        <h1 className="mb-5 text-5xl font-bold">All Blogs</h1>
+                    </div>
+                </div>
+            </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                 {
                     allBlogs.map(allBlog => <AllBlog allBlog={allBlog}></AllBlog>)
